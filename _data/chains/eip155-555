@@ -1,0 +1,20 @@
+{
+    "name": "Monkoin",
+    "chain": "MNK",
+    "network": "mainnet",
+    "rpc": [
+      "https://www.truedigital.com/monkoin/rpc"
+    ],
+    "faucets": [
+      
+    ],
+    "nativeCurrency": {
+      "name": "Monkoin Ether",
+      "symbol": "MNK",
+      "decimals": 18
+    },
+    "infoURL": "https://www.truedigital.com/monkoin/info",
+    "shortName": "mnk",
+    "chainId": 555,
+    "networkId": 555
+  }
